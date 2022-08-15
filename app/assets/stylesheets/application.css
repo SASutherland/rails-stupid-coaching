@@ -42,11 +42,8 @@
  }
 
  .coach-answer {
-  padding: 10px 0 0 20px;
-  border-style: solid;
-  border-color: white;
-  border-width: 5px;
-  border-left-color: #C9C9C9;
+  padding: 10px 0 10px 20px;
+  border-left: 5px solid #C9C9C9;
   background-color: #FFFFE1;
  }
 
@@ -56,9 +53,6 @@
  }
 
  .your-question {
-  padding: 10px 0 0 20px;
-  border-style: solid;
-  border-color: white;
-  border-width: 5px;
-  border-left-color: #C9C9C9;
+  padding: 10px 0 10px 20px;
+  border-left: 5px solid #C9C9C9;
  }
