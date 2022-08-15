@@ -13,3 +13,52 @@
  *= require_tree .
  *= require_self
  */
+
+ body {
+   margin: 0, auto;
+   padding: 10px;
+ }
+
+ h1 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 600;
+ }
+
+ #ask-form {
+  display: flex;
+  align-items: center;
+ }
+
+ #ask-form .text {
+  width: 500px;
+ }
+
+ .btn {
+  padding: 3px 12px 3px 12px;
+  align-items: center;
+  font-weight: bold;
+  background-color: #337AB7;
+  border-color: #337AB7;
+ }
+
+ .coach-answer {
+  padding: 10px 0 0 20px;
+  border-style: solid;
+  border-color: white;
+  border-width: 5px;
+  border-left-color: #C9C9C9;
+  background-color: #FFFFE1;
+ }
+
+ .new-question-link {
+  padding: 0 0 0 10px;
+  text-decoration: none;
+ }
+
+ .your-question {
+  padding: 10px 0 0 20px;
+  border-style: solid;
+  border-color: white;
+  border-width: 5px;
+  border-left-color: #C9C9C9;
+ }
